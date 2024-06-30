@@ -1,0 +1,36 @@
+names:
+- A1
+- A2
+- A3
+- B4
+- B5
+- C10
+- C11
+- C12
+- C6
+- C7
+- C8
+- C9
+- D13
+- D14
+- D15
+- E16
+- E17
+- E18
+- F19
+- F20
+- G21
+- G22
+- X
+- Y
+nc: 24
+roboflow:
+  license: Public Domain
+  project: chromosoma
+  url: https://universe.roboflow.com/test-gawt8/chromosoma/dataset/1
+  version: 1
+  workspace: test-gawt8
+path: /content/drive/MyDrive/NeuralNetworksFinalProyect
+test: chromosoma-1/test/images
+train: chromosoma-1/train/images
+val: chromosoma-1/valid/images
